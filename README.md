@@ -1,3 +1,3 @@
-# four-card-feature-section
+# Four card feature section
 
 Práctica CSS: Creando tarjetas.
