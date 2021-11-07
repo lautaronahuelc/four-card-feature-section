@@ -8,7 +8,7 @@ Fue realizado con HTML y CSS y representa una sección de tarjetas característi
 
 *¿El objetivo principal?* Práctica, práctica, ¡y más práctica! 💪
 
-Diseño del producto:
+Diseño del producto 👇
 
 <img src="https://github.com/lautaronahuelc/four-card-feature-section/blob/master/resultado-final.png"/>
 
