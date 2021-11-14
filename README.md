@@ -1,6 +1,6 @@
 # Sección de tarjetas características
 
-*¡Hola, Recruiter!* 👋
+*¡Hola!* 👋
 
 En este trabajo puse en práctica los primeros conocimientos que había adquirido en CSS.
 
